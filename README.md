@@ -17,7 +17,7 @@
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 	<!-- navbar-start -->
 <nav class="navbar navbar-expand-lg navbar-light bg-warning">
-  <div class="container-fluid navbar navbar-light" style="background-color: orange">
+  <div class="container-fluid navbar fixed-top navbar-light" style="background-color: orange">
     <a class="navbar-brand dosply-1" href="#" style="color: white; font-weight: bold; font-size: xx-large;">سیسمونی قصر کودک</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
