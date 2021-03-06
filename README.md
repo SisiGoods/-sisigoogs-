@@ -80,9 +80,7 @@
   	<p style="padding: 10px">  	آدرس:کرج-مهرشهر-بلوارارم-خیابان اول شرقی-روبروی مسجد صاحب الزمان
 </p>
   </div>
-  <div class="col-6 col-md-4">
-  	 <h1 class="display-1" style="color: orange; font-weight: bold; padding: 20px;">سیسمونی قصرکودک</h1>
-  </div>
+  
 </div>
 	<!-- introduction -->
 
